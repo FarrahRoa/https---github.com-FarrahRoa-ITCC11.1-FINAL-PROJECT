@@ -1,0 +1,4 @@
+WARNING: Using a password on the command line interface can be insecure.
+# WARNING The --port option is not used in the --diagnostic mode.
+# WARNING: The --user option is only used for the default mode.
+# Source on localhost: ... 
